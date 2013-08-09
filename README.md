@@ -19,8 +19,8 @@ There really isn't any right now. Have a look at examples/basic_client and examp
 Build Instructions
 -------------------------
 ### Requirements
-* Qt 4.6 or above.
-* CMake 2.6 or above.
+* Qt 5.0 or above.
+* CMake 2.8.8 or above.
 * Bonjour, or Avahi on Linux.
 
 on Debian or Ubuntu, this command will install the required dependencies.   
